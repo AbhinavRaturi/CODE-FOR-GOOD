@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/xor-operation-in-an-array/
 package Leet_Code;
 
 class Program1486 {
