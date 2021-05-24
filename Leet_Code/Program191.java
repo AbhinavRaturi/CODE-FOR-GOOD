@@ -1,6 +1,6 @@
 package Leet_Code;
 
-public class Program4 {
+public class Program191 {
     public static void main(String[] args) {
         int n = 00000000000000000000000000001011;
         Solution1 sol = new Solution1();

@@ -1,6 +1,6 @@
 package Leet_Code;
 
-public class Program5 {
+public class Program922 {
     public static void main(String[] args) {
         int[] nums = { 4, 2, 5, 7 };
         Solution5 sol = new Solution5();

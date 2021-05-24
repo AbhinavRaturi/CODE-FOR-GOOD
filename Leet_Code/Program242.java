@@ -1,6 +1,6 @@
 package Leet_Code;
 
-public class Program2 {
+public class Program242 {
 
     public static void main(String[] args) {
         String s = "anagram";

@@ -1,6 +1,6 @@
-1. 1486. XOR Operation in an Array                  https://leetcode.com/problems/xor-operation-in-an-array/
-2. 242. Valid Anagram                               https://leetcode.com/problems/valid-anagram/solution/
-3. 1859. Sorting the Sentence                       https://leetcode.com/problems/sorting-the-sentence/
-4. 191. Number of 1 Bits                            https://leetcode.com/problems/number-of-1-bits/
-5. 922. Sort Array By Parity II                     https://leetcode.com/problems/sort-array-by-parity-ii/
-6. 42. Trapping Rain Water                          https://leetcode.com/problems/trapping-rain-water/
+1486. XOR Operation in an Array                  https://leetcode.com/problems/xor-operation-in-an-array/
+242. Valid Anagram                               https://leetcode.com/problems/valid-anagram/solution/
+1859. Sorting the Sentence                       https://leetcode.com/problems/sorting-the-sentence/
+191. Number of 1 Bits                            https://leetcode.com/problems/number-of-1-bits/
+922. Sort Array By Parity II                     https://leetcode.com/problems/sort-array-by-parity-ii/
+42. Trapping Rain Water                          https://leetcode.com/problems/trapping-rain-water/

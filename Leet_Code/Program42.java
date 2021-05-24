@@ -1,6 +1,6 @@
 package Leet_Code;
 
-public class Program6 {
+public class Program42 {
     public static void main(String[] args) {
         int[] height = { 4, 2, 0, 3, 2, 5 };
         Solution6 sol = new Solution6();

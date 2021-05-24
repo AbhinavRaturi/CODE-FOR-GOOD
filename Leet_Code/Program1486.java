@@ -1,6 +1,6 @@
 package Leet_Code;
 
-class Program1 {
+class Program1486 {
     public int xorOperation(int n, int start) {
         int[] nums = new int[n];
         for (int i = 0; i < n; i++) {

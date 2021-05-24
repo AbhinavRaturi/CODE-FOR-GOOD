@@ -1,6 +1,6 @@
 package Leet_Code;
 
-public class Program3 {
+public class Program1859 {
     public static void main(String[] args) {
         Solution sol = new Solution();
         String s = "is2 sentence4 This1 a3";
