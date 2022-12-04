@@ -1,5 +1,5 @@
 package Leet_Code;
-
+// https://leetcode.com/problems/minimum-average-difference/
 public class Program2256 {
     public static void main(String[] args) {
         Solution s = new Solution();
