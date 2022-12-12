@@ -1,12 +1,15 @@
-1486. XOR Operation in an Array                  https://leetcode.com/problems/xor-operation-in-an-array/
-242. Valid Anagram                               https://leetcode.com/problems/valid-anagram/solution/
-1859. Sorting the Sentence                       https://leetcode.com/problems/sorting-the-sentence/
-191. Number of 1 Bits                            https://leetcode.com/problems/number-of-1-bits/
-922. Sort Array By Parity II                     https://leetcode.com/problems/sort-array-by-parity-ii/
-42. Trapping Rain Water                          https://leetcode.com/problems/trapping-rain-water/
-1588. Sum of All Odd Length Subarrays            https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
-1108. Defanging an IP Address                    https://leetcode.com/problems/defanging-an-ip-address/
-20. Valid Parentheses                            https://leetcode.com/problems/valid-parentheses/
-2256. Minimum Average Difference                 https://leetcode.com/problems/minimum-average-difference/
-876. Middle of the Linked List                   https://leetcode.com/problems/middle-of-the-linked-list/
-160. Intersection of Two Linked Lists            https://leetcode.com/problems/intersection-of-two-linked-lists/
+1486. XOR Operation in an Array                     https://leetcode.com/problems/xor-operation-in-an-array/
+242. Valid Anagram                                  https://leetcode.com/problems/valid-anagram/solution/
+1859. Sorting the Sentence                          https://leetcode.com/problems/sorting-the-sentence/
+191. Number of 1 Bits                               https://leetcode.com/problems/number-of-1-bits/
+922. Sort Array By Parity II                        https://leetcode.com/problems/sort-array-by-parity-ii/
+42. Trapping Rain Water                             https://leetcode.com/problems/trapping-rain-water/
+1588. Sum of All Odd Length Subarrays               https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+1108. Defanging an IP Address                       https://leetcode.com/problems/defanging-an-ip-address/
+20. Valid Parentheses                               https://leetcode.com/problems/valid-parentheses/
+2256. Minimum Average Difference                    https://leetcode.com/problems/minimum-average-difference/
+876. Middle of the Linked List                      https://leetcode.com/problems/middle-of-the-linked-list/
+160. Intersection of Two Linked Lists               https://leetcode.com/problems/intersection-of-two-linked-lists/
+328. Odd Even Linked List                           https://leetcode.com/problems/odd-even-linked-list/description/
+1026. Maximum Difference Between Node and Ancestor  https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
+
