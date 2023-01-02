@@ -1,7 +1,10 @@
-package Geek_For_Geeks;
-
-class test {
+class test{
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
+        String s = "apple";
+        String p = "elppa";
+
+        // "apple", "anaconda", "anecdote"
+        System.out.println(s.hashCode());
+        System.out.println(p.hashCode());
     }
 }
