@@ -12,4 +12,7 @@
 160. Intersection of Two Linked Lists               https://leetcode.com/problems/intersection-of-two-linked-lists/
 328. Odd Even Linked List                           https://leetcode.com/problems/odd-even-linked-list/description/
 1026. Maximum Difference Between Node and Ancestor  https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
+290. Word Pattern                                   https://leetcode.com/problems/word-pattern/
+520. Detect Capital                                 https://leetcode.com/problems/detect-capital/
+21. Merge Two Sorted Lists                          https://leetcode.com/problems/merge-two-sorted-lists/
 
