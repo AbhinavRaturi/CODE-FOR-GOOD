@@ -24,5 +24,3 @@ class Solution1833 {
         return counter;
     }
 }
-//  1, 2, 2, 4
-// 7-1 = 6, 6-2= 4,4-2=2, 2-4 = -2
