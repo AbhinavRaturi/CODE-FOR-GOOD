@@ -1,8 +1,6 @@
-public class DuplicateInArrayNPLUS1 {
-    public static void main(String[] args) {
-        int[] nums = {1,4,2,3,2,5};
-        System.out.println("Duplicate Number is : "+ new DuplicateInArrayNPLUS1().findDuplicate(nums));
-    }
+package Leet_Code;
+
+public class Program287 {
     public int findDuplicate(int[] nums) {
         int slow = nums[0];
         int fast = nums[0];
